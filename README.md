@@ -121,7 +121,6 @@ ref: refs/heads/master
 | Staged | Подготовленный |
 | Unmodified | Зафиксированный |
 | Add File | Планирование для включения в фиксацию |
-| Stage File |
 | Edit File | Изменение файла|
 | Remove file | Удаление файла |
 | Commit | Фиксация |
